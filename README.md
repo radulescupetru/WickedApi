@@ -1,1 +1,1 @@
-# WickedApi
+# WickedWebApi
